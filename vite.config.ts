@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/bilan-ia/',
+    base: '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
