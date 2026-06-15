@@ -1,0 +1,6 @@
+{
+  "name": "Bilan IA - Huvi Optimisation",
+  "description": "Landing page interactive avec questionnaire de pré-bilan IA pour identifier les pertes opérationnelles et générer un plan d'action personnalisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
