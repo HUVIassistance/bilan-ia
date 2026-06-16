@@ -77,8 +77,8 @@ export default function Hero({ onStartAudit }: HeroProps) {
                 <span className="text-xs text-gray-400 mt-1.5 block">De gains d&apos;efficacité</span>
               </div>
               <div className="border-l border-white/5 pl-6">
-                <span className="block font-display font-black text-3xl sm:text-4xl text-white">48h</span>
-                <span className="text-xs text-gray-400 mt-1.5 block">Analyse technique et ROI</span>
+                <span className="block font-display font-black text-3xl sm:text-4xl text-white">-15%</span>
+                <span className="text-xs text-gray-400 mt-1.5 block">Coûts d'opération</span>
               </div>
             </div>
 
